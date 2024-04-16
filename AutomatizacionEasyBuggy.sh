@@ -1,5 +1,5 @@
-git clone https://github.com/k-tamura/easybuggy
-#mvn -f easybuggy install
+git clone https://github.com/k-tamura/easybuggy.git
+mvn -f easybuggy compile
 mvn -f easybuggy package
 echo "Los entregables se encuentran en: "
 find easybuggy -name "target"
