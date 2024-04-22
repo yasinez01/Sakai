@@ -4,11 +4,10 @@ Se recomienda trabajar con java 11
 
 
 ## Licencias de los Proyectos Integrados
-
-## Licencias de los Proyectos Integrados
-
-- ["Licencia de Sakai"](licenses/sakai_license.txt)
+## EasyBuggy: 
 - ["Licencia de EasyBuggy"](licenses/easybuggy_license.txt)
+## Sakai:
+- ["Licencia de Sakai"](licenses/sakai_license.txt)
 - ["Licencia de activation"](licenses/activation.license.txt)
 - ["Licencia de aopalliance"](licenses/aopalliance.license.txt)
 - ["Licencia de apache1.1"](licenses/apache1.1.license.txt)
